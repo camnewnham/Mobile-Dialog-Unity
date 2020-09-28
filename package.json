@@ -1,0 +1,17 @@
+{
+  "name": "com.pingak9.mobile-dialog-unity",
+  "version": "1.0.0",
+  "displayName": "mobile-dialog-unity",
+  "description": "Show native iOS/Android dialogs in Unity.",
+  "unity": "2019.1",
+  "keywords": [
+    "dialog",
+    "native",
+    "popup"
+  ],
+  "author": {
+    "name": "pingak9",
+    "email": "khanhuitse05@gmail.com",
+    "url": "https://github.com/PingAK9/Mobile-Dialog-Unity"
+  }
+}
